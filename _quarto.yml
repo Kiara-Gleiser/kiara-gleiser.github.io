@@ -1,18 +1,27 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
-  title: "kiara-gleiser.github.io"
+  title: "Kiara Gleiser"
+  favicon: images/favicon.png
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: projects.qmd
+        text: CSU Projects
+      - href: resume.qmd
+        text: Resume
+  page-footer:
+    left: "Made with [Quarto](https://quarto.org/) and ❤️"
+    right: "[Contact me](mailto:gleiserkiara@gmail.com) | [Source code](https://github.com/Kiara-Gleiser/Kiara-Gleiser.github.io)"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - custom.scss
     toc: true
 
 editor: visual

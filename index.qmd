@@ -1,11 +1,25 @@
 ---
-title: "kiara-gleiser.github.io"
+title: "Kiara Gleiser"
+about:
+  template: trestles
+  image: images/IMG_1085.jpeg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gleiserkiara@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kiara-gleiser
+    - icon: github
+      text: GitHub
+      href: https://github.com/Kiara-Gleiser
 ---
+Action-oriented and analytic emerging professional in ecosystem science and sustainability, with a strong foundation in technical skills, including proficiency in Python and ArcGIS Pro. I possess excellent problem-solving and leadership abilities, with the capacity to collaborate effectively in teams. Additionally, I have a solid grasp of the Microsoft Office Suite, including Excel, Word, and PowerPoint. My skill set also encompasses data analysis and reporting, as well as project coordination and communication. I am eager to leverage these skills as a Sustainability Consultant, driving innovative solutions and technical expertise in sustainability.
 
-This is a Quarto website.
+My core competences include:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+-   Python, ArcGIS Pro
+-   Microsoft Office Suite (Excel, Word, PowerPoint)
+-   Project Coordination & Communication
+-   Multilingual with native fluency in English and Spanish, and proficiency in Hebrew

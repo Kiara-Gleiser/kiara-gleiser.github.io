@@ -1,0 +1,42 @@
+---
+title: "Resume"
+---
+
+## Professional Experience
+
+**Colorado State University Tropical Ecosystem Ecology Lab**\
+*Research Assistant*\
+November 2024 - Present
+
+-   Assisting in performing weighting and grounding of soil samples for research of soil carbon.
+-   Providing technical support for projects related to sustainability and compliance.
+-   Compiling documentation for soil samples and assisting in internal team training sessions.
+
+**WTS Peru**\
+*Sustainability team intern*\
+June 2023 - July 2023
+
+-   Conducted sustainability analysis and planning for various products, ensuring compliance with local and national sustainability laws.
+-   Reviewed and interpreted sustainability plan documents and specifications to identify compliance issues and areas for improvement.
+-   Coordinated with internal and external teams to communicate sustainability requirements and improve efficiency.
+
+## Education
+
+**Colorado State University**\
+*B.S. in Ecosystem Science and Sustainability*\
+Semester at Sea Fall 2023\
+Expected Graduation: December 2025
+
+## Technical Skills
+
+-   **Programming:** Python, R, ArcGIS Pro
+
+-   **Data Analysis:** Statistical Analysis, Data Visualization, Environmental Monitoring
+
+-   **Software:** Microsoft Office Suite (Excel, Word, PowerPoint)
+
+-   **Languages:** English (Native), Spanish (Native), Hebrew (Proficient)
+
+## Full Resume
+
+For a detailed version of my resume, please [view or download my full resume here](https://drive.google.com/file/d/1HOWe21xX3S0_Wr1N5f6HZ0LcR618oC_R/view?usp=sharing).

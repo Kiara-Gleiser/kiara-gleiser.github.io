@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kiara Gleiser",
+    "section": "",
+    "text": "Action-oriented and analytic emerging professional in ecosystem science and sustainability, with a strong foundation in technical skills, including proficiency in Python and ArcGIS Pro. I possess excellent problem-solving and leadership abilities, with the capacity to collaborate effectively in teams. Additionally, I have a solid grasp of the Microsoft Office Suite, including Excel, Word, and PowerPoint. My skill set also encompasses data analysis and reporting, as well as project coordination and communication. I am eager to leverage these skills as a Sustainability Consultant, driving innovative solutions and technical expertise in sustainability.\nMy core competences include:\n\nPython, ArcGIS Pro\nMicrosoft Office Suite (Excel, Word, PowerPoint)\nProject Coordination & Communication\nMultilingual with native fluency in English and Spanish, and proficiency in Hebrew"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Colorado State University Tropical Ecosystem Ecology Lab\nResearch Assistant\nNovember 2024 - Present\n\nAssisting in performing weighting and grounding of soil samples for research of soil carbon.\nProviding technical support for projects related to sustainability and compliance.\nCompiling documentation for soil samples and assisting in internal team training sessions.\n\nWTS Peru\nSustainability team intern\nJune 2023 - July 2023\n\nConducted sustainability analysis and planning for various products, ensuring compliance with local and national sustainability laws.\nReviewed and interpreted sustainability plan documents and specifications to identify compliance issues and areas for improvement.\nCoordinated with internal and external teams to communicate sustainability requirements and improve efficiency."
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Colorado State University Tropical Ecosystem Ecology Lab\nResearch Assistant\nNovember 2024 - Present\n\nAssisting in performing weighting and grounding of soil samples for research of soil carbon.\nProviding technical support for projects related to sustainability and compliance.\nCompiling documentation for soil samples and assisting in internal team training sessions.\n\nWTS Peru\nSustainability team intern\nJune 2023 - July 2023\n\nConducted sustainability analysis and planning for various products, ensuring compliance with local and national sustainability laws.\nReviewed and interpreted sustainability plan documents and specifications to identify compliance issues and areas for improvement.\nCoordinated with internal and external teams to communicate sustainability requirements and improve efficiency."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nColorado State University\nB.S. in Ecosystem Science and Sustainability\nSemester at Sea Fall 2023\nExpected Graduation: December 2025"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: Python, R, ArcGIS Pro\nData Analysis: Statistical Analysis, Data Visualization, Environmental Monitoring\nSoftware: Microsoft Office Suite (Excel, Word, PowerPoint)\nLanguages: English (Native), Spanish (Native), Hebrew (Proficient)"
+  },
+  {
+    "objectID": "resume.html#full-resume",
+    "href": "resume.html#full-resume",
+    "title": "Resume",
+    "section": "Full Resume",
+    "text": "Full Resume\nFor a detailed version of my resume, please view or download my full resume here."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "CSU Projects",
+    "section": "",
+    "text": "In Spring 2025, I’m taking a Quantitative Reasoning class focused on R programming and data science. Here’s a collection of my project work that demonstrates my growing expertise in data analysis and visualization."
+  },
+  {
+    "objectID": "projects.html#building-a-data-science-portfolio",
+    "href": "projects.html#building-a-data-science-portfolio",
+    "title": "CSU Projects",
+    "section": "Building a Data Science Portfolio",
+    "text": "Building a Data Science Portfolio\nThis project showcases my ability to:\n\nCreate and deploy a professional portfolio website using Quarto and GitHub Pages\nImplement version control best practices with Git\nWrite clear, well-documented R code for data analysis\nStructure and present technical content for different audiences\nDevelop a professional online presence for data science work\n\nThe complete source code is available in the linked GitHub repository, demonstrating my commitment to open-source development and reproducible research practices."
+  }
+]

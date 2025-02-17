@@ -1,0 +1,69 @@
+/*-- scss:defaults --*/
+
+// Custom color scheme
+$forest-green: #2E8B57;      // Primary color - forest green
+$sage: #9DC183;              // Secondary color - sage green
+$earth-brown: #8B4513;       // Accent color - earth brown
+$leaf-green: #90EE90;        // Light accent - light green
+$cream: #FFFAF0;             // Background color - cream
+
+// Quarto variables
+$navbar-bg: $forest-green;                    // Navbar background
+$navbar-fg: $cream;                           // Navbar text
+$navbar-hl: $leaf-green;                      // Navbar highlight
+$toc-active-border: $forest-green;            // TOC active section
+$toc-color: $earth-brown;                     // TOC text color
+$link-color: darken($forest-green, 10%);      // Link color
+$hover-color: $sage;                          // Hover color
+$footer-bg: lighten($forest-green, 65%);      // Footer background
+$code-block-bg: lighten($sage, 35%);          // Code block background
+$code-color: darken($earth-brown, 10%);       // Code text color
+
+// Bootstrap variables
+$primary: $forest-green;
+$secondary: $sage;
+$success: $leaf-green;
+$info: lighten($forest-green, 40%);
+$body-bg: $cream;
+$body-color: darken($earth-brown, 10%);
+
+// Base document colors
+$selection-bg: lighten($sage, 20%);
+
+// Footer
+$footer-fg: $forest-green;
+
+// Headers
+$header-color: $forest-green;
+
+/*-- scss:rules --*/
+
+// Custom link styling
+a {
+  text-decoration: none;
+  &:hover {
+    color: $sage;
+    text-decoration: underline;
+  }
+}
+
+// Header styling
+h1, h2, h3, h4, h5, h6 {
+  color: $header-color;
+  font-weight: 600;
+}
+
+// Button styling
+.button {
+  background-color: $forest-green;
+  &:hover {
+    background-color: darken($forest-green, 10%);
+  }
+}
+
+// Footer styling
+.footer {
+  background-color: $footer-bg;
+  color: $footer-fg;
+  padding: 1em 0;
+} 

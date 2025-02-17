@@ -1,0 +1,17 @@
+---
+title: "CSU Projects"
+---
+
+In Spring 2025, I'm taking a Quantitative Reasoning class focused on R programming and data science. Here's a collection of my project work that demonstrates my growing expertise in data analysis and visualization.
+
+## [Building a Data Science Portfolio](https://github.com/kiara-gleiser/your-repo)
+
+This project showcases my ability to:
+
+-   Create and deploy a professional portfolio website using Quarto and GitHub Pages
+-   Implement version control best practices with Git
+-   Write clear, well-documented R code for data analysis
+-   Structure and present technical content for different audiences
+-   Develop a professional online presence for data science work
+
+The complete source code is available in the linked GitHub repository, demonstrating my commitment to open-source development and reproducible research practices.
