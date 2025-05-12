@@ -15,3 +15,30 @@ This project showcases my ability to:
 -   Develop a professional online presence for data science work
 
 The complete source code is available in the linked GitHub repository, demonstrating my commitment to open-source development and reproducible research practices.
+
+## Lab Projects - ESS 330 Quantitative Reasoning for Ecosystem Science
+
+### Lab 2: Minnesota Tree Growth Analysis
+
+```{r}
+#| label: lab2-image
+#| fig-cap: "Trembling Aspen (Populus tremuloides) - The fastest growing tree species in our dataset"
+knitr::include_graphics("https://c8.alamy.com/comp/AFJT90/trembling-aspen-populus-tremuloides-trees-in-autumn-in-the-cariboo-AFJT90.jpg")
+```
+
+This lab focused on data manipulation using dplyr. Key learnings included: - Using dplyr verbs for data transformation - Understanding pipe operations and data flow - Grouping and summarizing data - Working with time series data - Analyzing tree growth patterns
+
+### Lab 3: COVID Wrangling
+
+![](img/Lab3image.png)
+
+From this lab, I learned several important concepts about analyzing COVID-19 data:
+
+-   The importance of public data access for understanding disease spread and making informed decisions
+-   How to calculate and visualize per capita rates to better understand disease impact across different population sizes
+-   The concept of Weighted Mean Center (WMC) and how it can be used to track the geographic movement of disease spread
+-   How to create effective visualizations that combine multiple data aspects (location, time, and magnitude)
+-   The value of comparing different metrics (cases vs. deaths) to understand different aspects of the pandemic's impact
+-   How to use R for spatial data analysis and visualization, including working with geographic coordinates and creating maps
+
+The lab demonstrated how data science and visualization techniques can be applied to understand complex public health issues and track their evolution over time and space.
