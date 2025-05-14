@@ -2,7 +2,7 @@
 title: "Kiara Gleiser"
 about:
   template: trestles
-  image: images/IMG_1085.jpeg
+  image: img/IMG_1085.jpeg
   image-shape: round
   links:
     - icon: envelope
